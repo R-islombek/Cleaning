@@ -1,0 +1,72 @@
+{
+    "navbar":{
+        "link1":"Main",
+        "link2":"About",
+        "link3":"Services",
+        "link4":"Articles",
+        "link5":"Contact",
+        "btn_t":"Get a free quote"
+    },
+    "header":{
+        "title":"Quality cleaning for your home",
+        "text":"Condimentum mauris sit cursus amet id non neque pharetra nulla ornare sed facilisis senectus dapibus nibh ultrices eget suscipit aliquet et nulla magna lacus penatibus.",
+        "btn":"Get a free quote"
+    },
+    "about":{
+        "title":"About Us",
+        "text":"Sagittis nibh scelerisque vitae eget vulputate sem elementum sed neque nisi felis non ultrices massa id egestas quam velit pretium nu.",
+        "subtitle1":"1. Schedule online",
+        "subtext1":"Sagittis nibh scelerisque vitae egetolment vulputate sem elementum sed n.",
+        "subtitle2":"2. Pay online easily",
+        "subtext2":"Vitae ut accumsan blandit ullamcorperolm suscipit dui gravida amet at nunc.",
+        "subtitle3":"3. Get your house cleaned",
+        "subtext3":"Nunc maecenas sollicitudin metus tellus mattis sed porttitor cursus eleifend.",
+        "btn__t1":"Get a free quote",
+        "btn__t2":"Explore services"
+    },
+    "service":{
+        "title":"Our Services",
+        "btn":"Get a free quote"
+    },
+    "main":{
+        "title":"Covid-19 sanitization",
+        "name":"We follow guidelines to keep you safe from the COVID-19 virus",
+        "text":"Lobortis mattis odio leo eget mauris met aliquet semper molestie sollicitudin congue massa mauris lectus.",
+        "btn":"Get a free quote"
+    },
+    "section":{
+        "title":"Articles & resources",
+        "btn1":"Browse articles",
+        "btn2":"Get a free quote",
+        "name":"8 best vacuum cleaners to clean any mess for your home in 2022",
+        "text":"How to properly disinfect your phone and other electronics"
+    },
+    "contact":{
+        "title":"Contact Us",
+        "text":"In dignissim euismod pretium amet enim a eu nam ut urna accumsan pellentesque lacus duis pharetra eutortor.",
+        "name":"Not convinced yet?",
+        "text2":"Massa bibendum consectetur maurisid gravida purus, dolor dui amet morbi non nunc urna purus diam.",
+        "btn":"Browse our packages",
+        "input1":"Full name",
+        "input2":"Phone number",
+        "input3":"Addres",
+        "input4":"Email",
+        "label":"Requested service",
+        "label2":"Day of service",
+        "label3":"Add a note"
+    },
+    "footer":{
+        "name":"Quality cleaning for your home",
+        "title1":"Contact us",
+        "text1":"1827 Nickel Road, Los Angeles, CA, 90017, United States",
+        "title2":"Hours",
+        "title3":"Monday to Friday",
+        "text2":"6:00 AM - 9:00 PM",
+        "title4":"Saturday & Sunday",
+        "text3":"8:00 AM - 8:00 PM",
+        "title5":"Get a free estimate",
+        "text4":"By Dekanova",
+        "btn":"Request a free quote"
+    }
+
+}

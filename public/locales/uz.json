@@ -1,0 +1,80 @@
+{
+    "navbar":{
+        "link1":"Bosh sahifa",
+        "link2":"Biz haqimizda",
+        "link3":"Xizmatlar",
+        "link4":"Maqolalar",
+        "link5":"Aloqa",
+        "btn_t":"Bepul baholash oling"
+    },
+        "header": {
+            "title": "Uyingiz uchun sifatli tozalash xizmati",
+            "text": "Qo'shimcha mahsulotlar mauris sit cursus amet id non neque pharetra nulla ornare sed facilisis senectus dapibus nibh ultrices eget suscipit aliquet et nulla magna lacus penatibus.",
+            "btn":"Bepul taklif oling"
+        },
+            "about": {
+                "title": "Biz Haqimizda",
+                "text": "Sagittis nibh scelerisque, vitae eget vulputate, sem elementum. Sed neque nisi felis, non ultrices massa. Id egestas quam velit, pretium nu.",
+                "subtitle1": "1. Onlayn jadval bilan rejalashtiring",
+                "subtext1": "Sagittis nibh scelerisque, vitae egetolment vulputate, sem elementum sed n.",
+                "subtitle2": "2. Onlayn to'lovni oson amalga oshiring",
+                "subtext2": "Vitae ut accumsan blandit, ullamcorperolm suscipit dui gravida, amet at nunc.",
+                "subtitle3": "3. Uyingizni tozalang",
+                "subtext3": "Nunc maecenas sollicitudin metus, tellus mattis sed porttitor cursus eleifend.",
+                "btn__t2":"Xizmatlarni o'rganing",
+                "btn__t1":"Bepul baholash oling"
+            },
+            "service":{
+                "title":"Bizning xizmatlarimiz",
+                "btn":"Bepul baholash oling"
+            },
+                "main": {
+                    "title": "Kovid-19 sanitatsiyasi",
+                    "name": "Biz, Sizni COVID-19 virusidan himoya qilish uchun qo'llanmalarga rioya qilamiz",
+                    "text": "Lobortis mattis odio, leo eget mauris met aliquet, semper molestie sollicitudin congue massa. Mauris lectus.",
+                    "btn": "Bepul baholash oling"
+            },
+                "section": {
+                    "title": "Maqolalar & resurslar",
+                    "btn1": "Maqolalarni ko'ring",
+                    "btn2": "Bepul baholash oling",
+                    "name": "2022-yilda uy uchun har qanday yog'li ushlanmani tozalash uchun 8 eng yaxshi tozalovchilar",
+                    "text": "Telefoningizni va boshqa elektronik qurilmalarni to'g'ri dezinfeksiya qilish qanday"
+                },
+                "contact":{
+                    "title":"Biz bilan bog'laning",
+                    "text":"Iltimos, biz bilan bog'laning va bizning paketlarimizni ko'rib chiqing.",
+                    "name":"Hali ishonch qilmadingizmi?",
+                    "text2":"Massa bibendum consectetur maurisid gravida purus, dolor dui amet morbi non nunc urna purus diam.",
+                    "btn":"Paketlarimizni ko'ring",
+                    "input1":"To'liq ism",
+                    "input2":"Telefon raqami",
+                    "input3":"Manzil",
+                    "input4":"Elektron pochta",
+                    "label":"So'ralgan xizmat",
+                    "label2":"Xizmat kunlari",
+                    "label3":"Izoh qo'shish"
+                },
+                "footer":{
+                    "name":"Sizning uyingiz uchun sifatli tozalash xizmati",
+                    "title1":"Biz bilan bog'laning",
+                    "text1":"Amerika Qo'shma Shtatlar, CA, Los Anjeles, Nikel Road, 1827",
+                    "title2":"Ish vaqti",
+                    "title3":"Dushanba kuni - Juma kuni",
+                    "text2":"6:00 AM - 9:00 PM",
+                    "title4":"Shanba va Yakshanba",
+                    "text3":"8:00 AM - 8:00 PM",
+                    "title5":"Bepul baholash oling",
+                    "text4":"Dekanova tomonidan",
+                    "btn":"Bepul taklifni so'rang"
+                }
+                
+                
+            
+            
+        
+        
+       
+    
+    
+}

@@ -1,0 +1,140 @@
+.navbar__container{
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+}
+.navbar__list{
+    display:flex;
+    align-items:center;
+    padding-left: 10px;
+}
+.navbar__img{
+    width: 170px;
+    height: 40px;
+}
+.navbar__link{
+    color: #211F54;
+    font-size: 18px;
+    padding-left:30px
+}
+.navbar__link:hover{
+    color: blue;
+}
+.navbar{
+    padding-top:100px;
+    padding-bottom: 25px;
+    position: fixed;
+    right: 0;
+    left: 0;
+    background-color: white;
+}
+#lng{
+    border-radius:10px;
+    background-color: white;
+    color: #0075FF;
+    width: 60px;
+    height: 30px;
+    border: 2px solid #0075FF;
+}
+.fa-bars{
+    display: none;
+    padding-left: 15px;
+   
+}
+.navbar__wrapper{
+    display:flex;
+    align-items:center;
+
+}
+
+
+
+
+
+@media(max-width:1120px){
+    .container{
+      width: 1000px;
+    }
+    .navbar__link{
+      font-size: 18px;
+      padding-left:10px
+  }
+  .navbar{
+      position: static;
+  }
+  
+  }
+  
+  @media(max-width: 1020px){
+    .container{
+      width: 900px;
+    }
+    .navbar__link{
+        font-size: 16px;
+        padding-left:10px
+    }
+    .buton{
+        width: 150px;
+        height: 50px;
+    }
+    .navbar__img{
+        width: 150px;
+        height: 35px;
+    }
+  }
+  
+  @media(max-width:920px){
+    .container{
+      width: 800px;
+    }
+    .navbar__link{
+        display: none;
+    }
+    .fa-bars{
+        display: block;
+       
+    }
+    .buton{
+        display: none;
+    }
+    .navbar{
+      padding-top: 25px;
+    }
+  }
+  
+  @media(max-width:820px){
+    .container{
+      width: 700px;
+    }
+  }
+  
+  @media(max-width:720px){
+    .container{
+      width: 600px;
+    }
+  }
+  
+  @media(max-width:620px){
+    .container{
+      width: 500px;
+    }
+  }
+  
+  @media(max-width:520px){
+    .container{
+      width: 90%;
+    }
+   .navbar__wrapper{
+     padding-left: 50px;
+   }
+
+  }
+  
+  @media(max-width:420px){
+    .container{
+      width: 95%;
+    }
+    .navbar__wrapper{
+      padding-left: 30px;
+    }
+  }

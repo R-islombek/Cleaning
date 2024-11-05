@@ -1,0 +1,8 @@
+.modal__link{
+    color: #211F54;
+    font-size: 18px;
+    padding-left:30px
+}
+.modal__link:hover{
+    color: blue;
+}
